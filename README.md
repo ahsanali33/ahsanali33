@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahsan Ali
 ==========================
 
-Data Science | AI & Machine Learning |Deep Learning | Python | Natural Language Processing
+Data Science | AI & Machine Learning |Deep Learning | Python | Natural Language Processing | Data Engineering
 ------------------------------------------------------------------------------------------
 
 An opportunist with an interest in exploring, learning, and achieving more. Data Science is like a deep ocean where you have to dive in to explore the beauty and I have just dived in and struggling to get into the bottom.

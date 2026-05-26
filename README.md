@@ -8,7 +8,7 @@ An opportunist with an interest in exploring, learning, and achieving more. Data
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [MyPortfolio](http://www.ahsanali33.com)
-* ✉️  You can contact me at [201980045@GIFT.EDU.PK](mailto:reachoutahsan@gmail.com)
+* ✉️  You can contact me at [(mailto:reachoutahsan@gmail.com)]
 * 🚀  I'm currently working on [Drug Discovery Using AI](http://www.drugdiscovery.com)
 * 🧠  I'm learning Flask,Django
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning and Computer Vision pojects
